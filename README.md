@@ -1,5 +1,5 @@
 # UAB_THE_HACK_FGC_JOM
-Jordi Longaron, Óscar Arrocha
+Jordi Longaron, Óscar Arrocha, Mustapha El Aichouni
 Google Doc:https://docs.google.com/document/d/1Ll9R5XAYoTHUCwEV8KzYTdw_3HK_IC27BYRpO9AhbOc/edit?usp=sharing
 ## Introduction
 ## Abstract
