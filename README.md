@@ -32,11 +32,11 @@ Jordi Longaron, Óscar Arrocha
 
 ## Conclusion
 
-### small introduction as a resume
+### Small introduction as a resume
 
-### precations in deployment
+### Precautions in deployment
 
-### futures and ways of starting for your device
+### Futures and ways of starting for your device
 
-### learnings from the process
+### Learnings from the process
 
