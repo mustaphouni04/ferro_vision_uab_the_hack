@@ -1,5 +1,5 @@
 # UAB_THE_HACK_FGC_JOM
-Jordi Longaron, 
+Jordi Longaron, Óscar Arrocha
 ## Introduction
 ## Abstract
 ## Key words
