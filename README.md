@@ -41,3 +41,5 @@ Google Doc:https://docs.google.com/document/d/1Ll9R5XAYoTHUCwEV8KzYTdw_3HK_IC27B
 
 ### Learnings from the process
 
+references:
+https://www.youtube.com/watch?v=skN1o6Fb2P8
