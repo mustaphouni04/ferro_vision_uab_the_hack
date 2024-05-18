@@ -24,9 +24,9 @@ Jordi Longaron, Óscar Arrocha
 
 ### What is your device in context?
 
-### A) Technical data sheet
+#### A) Technical data sheet
 
-### B) Network of actors 
+#### B) Network of actors 
 
 ### Legal aspects to be considered
 
