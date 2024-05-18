@@ -42,4 +42,7 @@ Google Doc:https://docs.google.com/document/d/1Ll9R5XAYoTHUCwEV8KzYTdw_3HK_IC27B
 ### Learnings from the process
 
 references:
-https://www.youtube.com/watch?v=skN1o6Fb2P8
+https://www.youtube.com/watch?v=skN1o6Fb2P8,
+https://github.com/CASIA-IVA-Lab/FastSAM,
+https://github.com/ChaoningZhang/MobileSAM,
+https://github.com/KdaiP/MobileSAM-fast-finetuning
