@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['persona', 'seient', 'tickets-maquina', 'torniquete']
+
+roboflow:
+  workspace: projectyolo-qvrgr
+  project: projectyolo2
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/projectyolo-qvrgr/projectyolo2/dataset/2
