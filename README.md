@@ -1,4 +1,4 @@
-# UAB_THE_HACK_FGC_JOM
+# FerroVision
 ![alt text](https://github.com/mustaphouni04/ferro_vision_uab_the_hack/blob/main/Captura.PNG?raw=true)
 Jordi Longaron, Óscar Arrocha, Mustapha El Aichouni
 
